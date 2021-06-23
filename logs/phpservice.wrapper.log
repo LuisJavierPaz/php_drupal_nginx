@@ -1,0 +1,7 @@
+2021-06-23 00:43:58,592 DEBUG - Starting WinSW in console mode
+2021-06-23 00:43:58,622 INFO  - Installing service 'php (PHP)'...
+2021-06-23 00:43:58,641 INFO  - Service 'php (PHP)' was installed successfully.
+2021-06-23 00:44:12,045 DEBUG - Starting WinSW in service mode
+2021-06-23 00:44:12,181 INFO  - Starting C:\php7.4\php-cgi.exe  -b127.0.0.1:9999 -cc:\php7.4\php.ini 
+2021-06-23 00:44:12,245 INFO  - Started process 5408
+2021-06-23 00:44:12,261 DEBUG - Forwarding logs of the process System.Diagnostics.Process (php-cgi) to WinSW.RollingLogAppender
